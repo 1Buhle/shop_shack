@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+        "name": "Starfield Premium Edition (XBS|X)",
+        "description": "Starfield is a new space-themed role-playing game from Bethesda Game Studios, allowing players to create their own character and freely explore a vast universe while uncovering humanity's greatest mystery.",
+        "price": 700,
+        "category": "Electronics",
+        "imageUrl": "https://www.incredible.co.za/api/catalog/product/s/t/starfield_premium_upgrade_pack_ecommerce_9985.png?store=incredibleconnection&image-type=image"
+  },
+  {
+    "id": 2,
+        "name": "Mortal Kombat 1 Premium Edition",
+        "description": "Experience the signature brutality and intense battles featuring fan-favorite characters and new Kameo Fighters. Enjoy a unique roster of fighters, a revamped gameplay system, and immersive cinematic storytelling.",
+        "price": 1959.92,
+        "category": "Electronics",
+        "imageUrl": "https://cdn.freewebstore.com/origin/788695/mk1_pe_xbx_2d_packshot_ukr_1684502900390.png"
+  },
+  {
+    "id": 3,
+        "name": "NBA 2K25 All Star Edtion(XBS|X)",
+        "description": "Eligible for next-day delivery or collection, this product also offers the convenience of Cash on Delivery and free delivery options. Enjoy hassle-free exchanges and returns for 30 days, along with a 6-month limited warranty for added peace of mind.",
+        "price": 1500,
+        "category": "Electronics",
+        "imageUrl": "https://www.shopto.net/userdata/dcshop/images/normal/25395092_nba-2k25-all-star-edition.png"
+  },
+  {
+    "id": 4,
+    "name": "Smart LED Light Bulb",
+    "description": "Color-changing bulb with app control and voice assistant compatibility.",
+    "price": 14.99,
+    "category": "Smart Home",
+    "imageUrl": "https://binuns.co.za/wp-content/uploads/2023/10/intlb_6.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Men's Classic T-Shirt",
+    "description": "100% cotton, regular fit, available in multiple colors and sizes.",
+    "price": 12.00,
+    "category": "Apparel",
+    "imageUrl": "https://ciovita.co.za/cdn/shop/files/MNS-COTTONTERE_FRONT_266e7d3b-22c4-480d-9483-066daa7ac6d3.jpg?v=1722951849"
+  },
+  {
+    "id": 6,
+    "name": "USB-C Charging Cable - 2 Pack",
+    "description": "1m and 2m fast charging cables compatible with most USB-C devices.",
+    "price": 10.99,
+    "category": "Accessories",
+    "imageUrl": "https://m.media-amazon.com/images/I/712G4rNcfuL.jpg"
+  }
+]
